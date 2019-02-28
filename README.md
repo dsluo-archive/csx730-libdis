@@ -33,7 +33,8 @@ find the assembly notes provided in recent lecture modules on eLC useful.
    of the room.**
    
 1. In `main.c` write and test simple C program that prints the numbers `0` through `100` (exclusive)
-   using `setjmp` and `longjmp` instead of loops or recursion. A simple `Makefile` is provided to make 
+   using `setjmp` and `longjmp` instead of loops or recursion. Your code shoul make use of the
+   return value of `setjmp` to increment the number. A simple `Makefile` is provided to make 
    compiling easier.
    
 **CHECKPOINT:** Ask your instructor if you have any questions.
