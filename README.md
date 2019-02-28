@@ -20,8 +20,8 @@ This activity is open book, open notes, and asking your instructor questions is 
 find the assembly notes provided in recent lecture modules on eLC useful. 
 
 1. Modify `SUBMISSION.md` to include the name, UGA ID number, course number (4730 or 6730) 
-   for each group member. Then, sign the piece of paper that your instructor has at the front 
-   of the room.
+   for each group member. Then, **sign the piece of paper that your instructor has at the front 
+   of the room.**
    
 1. In `main.c` write and test simple C program that prints the numbers `0` through `100` (exclusive)
    using `setjmp` and `longjmp` instead of loops. A simple `Makefile` is provided to make compiling
