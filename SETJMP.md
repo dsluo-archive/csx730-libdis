@@ -1,4 +1,4 @@
-# `setjmp` Assembly Chain
+# `setjmp` Disassembly Chain
 
 ## Where?
 
