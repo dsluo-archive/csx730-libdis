@@ -1,5 +1,14 @@
 # csx730-libdis Library Disassembly Activity
 
+### References
+
+* [`setjmp(3)`, `longjmp(3)` - performing a nonlocal goto](http://man7.org/linux/man-pages/man3/setjmp.3.html)
+* [`ldd(1)` - print shared object dependencies](http://man7.org/linux/man-pages/man1/ldd.1.html)
+* [`vdso(7)` - overview of the virtual ELF dynamic shared object](http://man7.org/linux/man-pages/man7/vdso.7.html)
+* [`libc(7)` - overview of standard C libraries on Linux](http://man7.org/linux/man-pages/man7/libc.7.html)
+* [`ld.so(8)` - dynamic linker/loader](http://man7.org/linux/man-pages/man8/ld.so.8.html)
+* [`nm(1)` - list symbols from object files](http://man7.org/linux/man-pages/man1/nm.1.html)
+
 ### Getting Started
 
 1. Form into **small groups of two or three** people. These instructions assume that at least one group 
@@ -24,8 +33,8 @@ find the assembly notes provided in recent lecture modules on eLC useful.
    of the room.**
    
 1. In `main.c` write and test simple C program that prints the numbers `0` through `100` (exclusive)
-   using `setjmp` and `longjmp` instead of loops. A simple `Makefile` is provided to make compiling
-   easier.
+   using `setjmp` and `longjmp` instead of loops or recursion. A simple `Makefile` is provided to make 
+   compiling easier.
    
 **CHECKPOINT:** Ask your instructor if you have any questions.
 
