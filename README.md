@@ -51,6 +51,10 @@ find the assembly notes provided in recent lecture modules on eLC useful.
 1. Use `objdump` or `gdb` to find the assembly code for `setjmp`. Follow the chain of
    calls or jumps that are all labeled `setjmp` or similar and include their assembly in the
    `SUBMISSION.md` file. You may copy/paste.
+   
+1. Use `objdump` or `gdb` to find the assembly code for `longjmp`. Follow the chain of
+   calls or jumps that are all labeled `longjmp` or similar and include their assembly in the
+   `SUBMISSION.md` file. You may copy/paste.
 
 1. **Before 3:15 PM (or 11:55 for partial)**, double check that your group member names are listed in 
    `SUBMISSION.md` as well as the piece of paper that your instructor has at the front of the room, then
