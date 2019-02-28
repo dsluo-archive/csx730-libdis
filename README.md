@@ -17,10 +17,7 @@
 ### Activity Questions
 
 This activityis open book, open notes, and asking your instructor questions is allowed. You may
-find the assembly notes provided in recent lecture modules on eLC useful. If you use `gcc -S`
-as a last resort, you are still expected to fully document the assembly. Your instructor
-reserves the right to question you about the low-level and high-level functionality of a 
-sequence of instructions in your submission.
+find the assembly notes provided in recent lecture modules on eLC useful. 
 
 
 <hr/>
