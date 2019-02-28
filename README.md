@@ -16,9 +16,39 @@
    
 ### Activity Questions
 
-This activityis open book, open notes, and asking your instructor questions is allowed. You may
+This activity is open book, open notes, and asking your instructor questions is allowed. You may
 find the assembly notes provided in recent lecture modules on eLC useful. 
 
+1. Modify `SUBMISSION.md` to include the name, UGA ID number, course number (4730 or 6730) 
+   for each group member. Then, sign the piece of paper that your instructor has at the front 
+   of the room.
+   
+1. In `main.c` write and test simple C program that prints the numbers `0` through `100` (exclusive)
+   using `setjmp` and `longjmp` instead of loops. A simple `Makefile` is provided to make compiling
+   easier.
+   
+**CHECKPOINT:** Ask your instructor if you have any questions.
+
+1. In `SUBMISSION.md`, include a list of the list symbols from `main.o` and `main`.
+
+1. In `SUBMISSION.md`, include a list of the shared library dependencies for `main`.
+
+**CHECKPOINT:** Ask your instructor if you have any questions.
+
+1. In `SUBMISSION.md`, indicate the file where the machine code for `setjmp` is defined.
+   You should probably note the command(s) you used to find it.
+   
+1. Use `objdump` or `gdb` to find the assembly code for `setjmp`. Follow the chain of
+   calls or jumps that are all labeled `setjmp` or similar and include their assembly in the
+   `SUBMISSION.md` file.
+
+1. **Before 3:15 PM (or 11:55 for partial)**, double check that your group member names are listed in 
+   `SUBMISSION.md` as well as the piece of paper that your instructor has at the front of the room, then
+   submit your activity attempt using the `submit` command. From the parent directory:
+   
+   ```
+   $ submit csx730-libdis csx730
+   ```
 
 <hr/>
 
