@@ -1,0 +1,10 @@
+csx730-libdis/:
+total 28
+-rw-r--r-- 1 ugrad 4743 Feb 28 15:03 LONGJMP.md
+-rw-r--r-- 1 ugrad  193 Feb 28 14:34 main.c
+-rw-r--r-- 1 ugrad  201 Feb 28 14:26 Makefile
+-rw-r--r-- 1 ugrad 3805 Feb 28 14:26 README.md
+-rw-r--r-- 1 ugrad    0 Feb 28 15:04 rec28026
+-rw-r--r-- 1 ugrad 3787 Feb 28 15:03 SETJMP.md
+-rw-r--r-- 1 ugrad 1859 Feb 28 15:03 SUBMISSION.md
+/home/ugrads/dluo/csx730-libdis/:/home/work/csx730
